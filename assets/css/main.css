@@ -23,7 +23,7 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 90%;
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -1772,6 +1772,9 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.fit2 {
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
@@ -2262,7 +2265,10 @@ input, select, textarea {
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				/*background-color: #e8edec;
+
+				 */
+				background-color: transparent;
 			}
 
 /* Wide */

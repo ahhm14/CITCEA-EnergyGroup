@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="201dadd3-e69c-4506-b76b-0a991285d4d5" name="Default Changelist" comment="&quot;Members&quot;" />
+    <list default="true" id="201dadd3-e69c-4506-b76b-0a991285d4d5" name="Default Changelist" comment="&quot;Members&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +44,8 @@
       <workItem from="1628619865180" duration="90000" />
       <workItem from="1628626318835" duration="1017000" />
       <workItem from="1628694620831" duration="1705000" />
-      <workItem from="1628696936839" duration="424000" />
+      <workItem from="1628696936839" duration="822000" />
+      <workItem from="1628720593592" duration="8778000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Members&quot;">
       <created>1628611570079</created>
